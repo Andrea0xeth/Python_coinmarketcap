@@ -24,7 +24,7 @@ git commit -m "My Django Girls app, first commit"
 
 
 collegare il repository Git sul tuo computer a quello su GitHub.
-$ git remote add origin https://github.com/AndreaRito/my-first-blog.git  
+$ git remote add origin https://github.com/AndreaRito/Python_coinmarketcap.git  
 $ git push -u origin master
 
 
